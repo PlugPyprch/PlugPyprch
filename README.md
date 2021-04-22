@@ -2,6 +2,16 @@
 
 I'm Plug, a computer science student, coder and sci-fi lover:rocket: who passionates in Virtual Reality technologies. I'm currently studying at King Mongkut's University of Technology North Bangkok, Thailand. 
 
+### :jack_o_lantern: Interest in 
+- ♟️ Chess
+- :books: Book
+- :computer: Technologies
+- :basketball: Basketball
+- :video_game: Video game
+
+### :earth_asia: Find me elsewhere
+[Linkedin](https://www.linkedin.com/in/phutthabut-panyaprachum-29013a18a/)
+
 <!--![alt text](https://github.com/PlugPyprch/PlugPyprch/blob/main/Pink%20Autism%20Facebook%20Event%20Cover.png)-->
 
 <!--
