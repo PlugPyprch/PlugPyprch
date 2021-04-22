@@ -1,8 +1,6 @@
-## Hi, I'm Plug :electric_plug:
+## Hi there 👋
 
-**I'm a Computer Science Student at King Mongkut's University of Technology North Bangkok, Thailand.**
-
-I'm a 2nd-year student, 
+I'm Plug :electric_plug: , a computer science student, coder and sci-fi lover:rocket: who passionates in Virtual Reality technologies.
 
 <!--![alt text](https://github.com/PlugPyprch/PlugPyprch/blob/main/Pink%20Autism%20Facebook%20Event%20Cover.png)-->
 
