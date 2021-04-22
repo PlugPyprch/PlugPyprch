@@ -2,7 +2,7 @@
 
 **I'm a Computer Science Student at King Mongkut's University of Technology North Bangkok, Thailand.**
 
-![alt text](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+![alt text](https://github.com/PlugPyprch/Data-Science-Projects/blob/main/Melbourne%20Property%20Price%20Prediction/iqr.png)
 
 <!--
 **PlugPyprch/PlugPyprch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
