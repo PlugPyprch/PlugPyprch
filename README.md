@@ -1,5 +1,7 @@
 ## Hi, I'm Plug :electric_plug:
 
+**I'm a Computer Science Student at King Mongkut's University of Technology North Bangkok, Thailand.**
+
 <!--
 **PlugPyprch/PlugPyprch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
