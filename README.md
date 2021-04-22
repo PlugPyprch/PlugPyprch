@@ -10,7 +10,8 @@ I'm Plug, a computer science student, coder and sci-fi lover:rocket: who passion
 - :video_game: Video game
 
 ### :earth_asia: Find me elsewhere
-[Linkedin](https://www.linkedin.com/in/phutthabut-panyaprachum-29013a18a/)
+- Linkedin : [https://www.linkedin.com/in/phutthabut-panyaprachum-29013a18a/](https://www.linkedin.com/in/phutthabut-panyaprachum-29013a18a/)
+- Instagram : [https://www.instagram.com/plug.pyprch/](https://www.instagram.com/plug.pyprch/)
 
 <!--![alt text](https://github.com/PlugPyprch/PlugPyprch/blob/main/Pink%20Autism%20Facebook%20Event%20Cover.png)-->
 
