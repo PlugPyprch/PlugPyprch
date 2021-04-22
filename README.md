@@ -5,7 +5,7 @@ I'm Plug, a computer science student, coder and sci-fi lover:rocket: who passion
 ### :jack_o_lantern: Interest in 
 - ♟️ Chess
 - :books: Book
-- :computer: Technologies
+- :computer: Technology
 - :basketball: Basketball
 - :video_game: Video game
 
