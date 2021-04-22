@@ -2,7 +2,9 @@
 
 **I'm a Computer Science Student at King Mongkut's University of Technology North Bangkok, Thailand.**
 
-![alt text](https://github.com/PlugPyprch/PlugPyprch/blob/main/Pink%20Autism%20Facebook%20Event%20Cover.png)
+I'm a 2nd-year student, 
+
+<!--![alt text](https://github.com/PlugPyprch/PlugPyprch/blob/main/Pink%20Autism%20Facebook%20Event%20Cover.png)-->
 
 <!--
 **PlugPyprch/PlugPyprch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
