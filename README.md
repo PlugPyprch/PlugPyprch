@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I'm Plug, a computer science student, coder and sci-fi lover:rocket: who passionates in Virtual Reality technologies. I'm currently studying at King Mongkut's University of Technology North Bangkok, Thailand. 
-
+I'm Plug, a computer science student, coder and sci-fi lover:rocket: who passionates in Virtual Reality technologies, Artificial Intelligence, Machine Learning and Deep Learning. I'm currently studying at King Mongkut's University of Technology North Bangkok, Thailand. 
+<!--
 ### :jack_o_lantern: Interest in 
 - ♟️ Chess
 - :books: Book
 - :computer: Technology
 - :basketball: Basketball
 - :video_game: Video game
-
+-->
 ### :earth_asia: Find me elsewhere
 - Linkedin : [https://www.linkedin.com/in/phutthabut-panyaprachum-29013a18a/](https://www.linkedin.com/in/phutthabut-panyaprachum-29013a18a/)
 - Instagram : [https://www.instagram.com/plug.pyprch/](https://www.instagram.com/plug.pyprch/)
